@@ -1,6 +1,6 @@
-git clone this https://github.com/KELs7/homey.git
+git clone this repo
 
-`sudo git clone repo url`
+`sudo git clone https://github.com/KELs7/homey.git`
 
 install astor if you don't have the package already installed
 
