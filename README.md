@@ -8,7 +8,7 @@ install astor if you don't have the package already installed
 
 copy the code below and paste into testing.py and run (python3 testing.py)
 
-`
+```
 from client import submit_contract, submit_tx
 
 with open("test_contracts/marv_token.py") as f:
@@ -30,5 +30,5 @@ tx_info = {
 # submit your transaction
 submit_tx(tx_info=tx_info)
 
-`
+```
 kindly open the docs folder to have an idea how contracts will look like.
